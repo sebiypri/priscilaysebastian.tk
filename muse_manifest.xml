@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk" resolutions="1x" timestamp="1658453957203">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk" resolutions="1x" timestamp="1658605781487">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="312023192" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="390376138" ref="index"/>
-    <file name="nomq_index.css" crc="269910207" ref="index"/>
+    <file name="index.css" crc="4103441847" ref="index"/>
+    <file name="nomq_index.css" crc="3995764306" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -38,7 +38,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_lea1163.jpg" crc="4168932223" seo="true" ref="index">
+    <file name="_lea1163.jpg" crc="4241168333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -60,7 +60,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_lea1055.jpg" crc="3800081609" seo="true" ref="index">
+    <file name="_lea1055.jpg" crc="4282871370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -95,7 +95,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_lea9331.jpg" crc="251947848" seo="true" ref="index">
+    <file name="_lea9331.jpg" crc="4136592783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -116,7 +116,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_lea9450.jpg" crc="4269025450" seo="true" ref="index">
+    <file name="_lea9450.jpg" crc="3887105166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -130,7 +130,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_lea9516.jpg" crc="4140356014" seo="true" ref="index">
+    <file name="_lea9516.jpg" crc="3960928050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -192,5 +192,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="18276038" seo="true" mt="1658453938276" redirect="true"/>
+  <file name="index.html" crc="4133477651" seo="true" mt="1658605737173" redirect="true"/>
 </manifest>
