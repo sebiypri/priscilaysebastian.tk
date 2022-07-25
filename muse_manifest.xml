@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk" resolutions="1x" timestamp="1658717669382">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk" resolutions="1x" timestamp="1658719570801">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="506987702" ref="index"/>
-    <file name="nomq_index.css" crc="4252155714" ref="index"/>
+    <file name="index.css" crc="121359519" ref="index"/>
+    <file name="nomq_index.css" crc="4043763640" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -516,6 +516,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="priscila-y-sebastian-favicon.ico" crc="249390845" ref="index"/>
+    <file name="_lea9656-u122-fr3.png" crc="4007177174" ref="index"/>
   </folder>
-  <file name="index.html" crc="205165392" seo="true" mt="1658717549608" redirect="true"/>
+  <file name="index.html" crc="86509727" seo="true" mt="1658719533799" redirect="true"/>
 </manifest>
