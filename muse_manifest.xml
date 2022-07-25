@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658772480979">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658773168596">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="384395917" ref="index"/>
-    <file name="nomq_index.css" crc="217921133" ref="index"/>
+    <file name="index.css" crc="495356354" ref="index"/>
+    <file name="nomq_index.css" crc="4182307950" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -35,12 +35,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 3.png" crc="317595963" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo p-s-01.png" crc="3984094867" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9620-crop-u439.jpg" crc="389109614" seo="true" ref="index">
@@ -271,7 +265,6 @@
     </file>
     <file name="fondo nombres 1-u3593-fr3.jpg" crc="3954095567" ref="index"/>
     <file name="lea9656-u122-fr3.png" crc="499266742" ref="index"/>
-    <file name="logo p-s-01-u10985-fr.png" crc="370641546" ref="index"/>
     <file name="lea9620455x682.jpg" crc="3850875400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -323,7 +316,6 @@
     <file name="lea9604455x682.jpg" crc="221796249" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo p-s-01-u10985-fr2.png" crc="4144071562" ref="index"/>
     <file name="lea9620433x648.jpg" crc="5017569" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -392,8 +384,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo p-s-01-u10985-fr3.png" crc="3825549494" ref="index"/>
-    <file name="logo p-s-01-u10985-fr4.png" crc="147467884" ref="index"/>
     <file name="lea9620-crop-u4395.jpg" crc="114957716" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -445,6 +435,16 @@
     <file name="lea9604-crop-u107515.jpg" crc="85678655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo260syp-01.png" crc="111904396" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo260syp-01-u10985-fr.png" crc="240860150" ref="index"/>
+    <file name="logo260syp-01-u10985-fr2.png" crc="93534303" ref="index"/>
+    <file name="logo260syp-01-u10985-fr3.png" crc="4083842041" ref="index"/>
+    <file name="logo260syp-01-u10985-fr4.png" crc="154871954" ref="index"/>
   </folder>
-  <file name="index.html" crc="340176969" seo="true" mt="1658772419468" redirect="true"/>
+  <file name="index.html" crc="108118688" seo="true" mt="1658773134129" redirect="true"/>
 </manifest>
