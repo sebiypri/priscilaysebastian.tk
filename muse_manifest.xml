@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658771148281">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658772057614">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3798671496" ref="index"/>
-    <file name="nomq_index.css" crc="259609825" ref="index"/>
+    <file name="index.css" crc="3910014126" ref="index"/>
+    <file name="nomq_index.css" crc="217921133" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -30,87 +30,23 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="artboard 3.png" crc="4266064109" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="fondo nombres 1.jpg" crc="3800210292" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fondo nombres 1-u3593-fr.jpg" crc="203921541" ref="index"/>
-    <file name="fondo nombres 1-u3593-fr2.jpg" crc="429051664" ref="index"/>
-    <file name="asset 2.png" crc="3920066637" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="priscila-y-sebastian-favicon.ico" crc="4008279052" ref="index"/>
+    <file name="lea9656.png" crc="3931590735" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 3.png" crc="317595963" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fondo nombres 1-u3593-fr3.jpg" crc="3954095567" ref="index"/>
-    <file name="priscila-y-sebastian-favicon.ico" crc="4008279052" ref="index"/>
-    <file name="lea9656.png" crc="3931590735" ref="index">
+    <file name="logo p-s-01.png" crc="3984094867" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9620-crop-u439.jpg" crc="389109614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lea9656-u122-fr.png" crc="4245886894" ref="index"/>
-    <file name="lea9620-crop-u4392.jpg" crc="208941028" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9656-u122-fr2.png" crc="3759628941" ref="index"/>
-    <file name="lea9620-crop-u4393.jpg" crc="456971845" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9656-u122-fr3.png" crc="499266742" ref="index"/>
-    <file name="lea9620-crop-u4394.jpg" crc="3989137040" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1110455x685.jpg" crc="201716914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1132455x685.jpg" crc="4209810878" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1168455x685.jpg" crc="377468503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9577455x682.jpg" crc="3997203416" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9604455x682.jpg" crc="221796249" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9620-crop-u4395.jpg" crc="114957716" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1110431x648.jpg" crc="835194" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1132431x648.jpg" crc="3969289460" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea1168431x648.jpg" crc="151341577" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9577433x648.jpg" crc="190725025" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lea9604433x648.jpg" crc="4204115882" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="lea0986-crop-u9296.jpg" crc="422474251" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -157,6 +93,24 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9604-crop-u10751.jpg" crc="323522656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="fondo nombres 1.jpg" crc="3800210292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2.png" crc="3920066637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea9656-u122-fr.png" crc="4245886894" ref="index"/>
+    <file name="lea9620-crop-u4392.jpg" crc="208941028" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea0986-crop-u92962.jpg" crc="408453804" seo="true" ref="index">
@@ -207,6 +161,11 @@
     <file name="lea9604-crop-u107512.jpg" crc="3921466086" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="fondo nombres 1-u3593-fr.jpg" crc="203921541" ref="index"/>
+    <file name="lea9656-u122-fr2.png" crc="3759628941" ref="index"/>
+    <file name="lea9620-crop-u4393.jpg" crc="456971845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="lea0986-crop-u92963.jpg" crc="3870630486" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -253,6 +212,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9604-crop-u107513.jpg" crc="4044972268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo nombres 1-u3593-fr2.jpg" crc="429051664" ref="index"/>
+    <file name="artboard 3.png" crc="4266064109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea9620-crop-u4394.jpg" crc="3989137040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea0986-crop-u92964.jpg" crc="4195949404" seo="true" ref="index">
@@ -303,6 +269,9 @@
     <file name="lea9604-crop-u107514.jpg" crc="3760558852" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="fondo nombres 1-u3593-fr3.jpg" crc="3954095567" ref="index"/>
+    <file name="lea9656-u122-fr3.png" crc="499266742" ref="index"/>
+    <file name="logo p-s-01-u10985-fr.png" crc="370641546" ref="index"/>
     <file name="lea9620455x682.jpg" crc="3850875400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -315,7 +284,16 @@
     <file name="lea1055455x684.jpg" crc="3891801879" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lea1110455x685.jpg" crc="201716914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="lea1118455x685.jpg" crc="3792915259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea1132455x685.jpg" crc="4209810878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea1168455x685.jpg" crc="377468503" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9331455x682.jpg" crc="254117787" seo="true" ref="index">
@@ -339,6 +317,13 @@
     <file name="lea9562455x682.jpg" crc="4294537886" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lea9577455x682.jpg" crc="3997203416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea9604455x682.jpg" crc="221796249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo p-s-01-u10985-fr2.png" crc="4156047684" ref="index"/>
     <file name="lea9620433x648.jpg" crc="5017569" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -355,7 +340,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lea1110431x648.jpg" crc="835194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="lea1118431x648.jpg" crc="501027327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea1132431x648.jpg" crc="3969289460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea1168431x648.jpg" crc="151341577" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -385,6 +382,19 @@
     </file>
     <file name="lea9562433x648.jpg" crc="3941440378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea9577433x648.jpg" crc="190725025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lea9604433x648.jpg" crc="4204115882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo p-s-01-u10985-fr3.png" crc="3825549494" ref="index"/>
+    <file name="logo p-s-01-u10985-fr4.png" crc="147467884" ref="index"/>
+    <file name="lea9620-crop-u4395.jpg" crc="114957716" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea0986-crop-u92965.jpg" crc="488864100" seo="true" ref="index">
@@ -435,28 +445,6 @@
     <file name="lea9604-crop-u107515.jpg" crc="85678655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logosyp-01.png" crc="292268110" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01246x246.png" crc="4180028378" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01243x243.png" crc="4226019645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01184x184.png" crc="4178256511" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01168x168.png" crc="4081701819" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01172x172.png" crc="4208782653" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logosyp-01147x147.png" crc="3847307357" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4199351593" seo="true" mt="1658771094245" redirect="true"/>
+  <file name="index.html" crc="4040727101" seo="true" mt="1658765636606" redirect="true"/>
 </manifest>
