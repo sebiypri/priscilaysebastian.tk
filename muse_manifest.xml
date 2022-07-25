@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658769561774">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658770828339">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4017287633" ref="index"/>
-    <file name="nomq_index.css" crc="205292798" ref="index"/>
+    <file name="index.css" crc="3830255360" ref="index"/>
+    <file name="nomq_index.css" crc="261639986" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -33,10 +33,6 @@
     <file name="artboard 3.png" crc="4266064109" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo p-s-01.png" crc="3765718977" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="fondo nombres 1.jpg" crc="3800210292" ref="index">
@@ -44,12 +40,6 @@
     </file>
     <file name="fondo nombres 1-u3593-fr.jpg" crc="203921541" ref="index"/>
     <file name="fondo nombres 1-u3593-fr2.jpg" crc="429051664" ref="index"/>
-    <file name="logo p-s-01189x172.png" crc="3788872710" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo p-s-01162x147.png" crc="158965603" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="asset 2.png" crc="3920066637" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -67,29 +57,17 @@
     <file name="u5451-4.png" crc="4043397480" ref="index"/>
     <file name="u5406-42.png" crc="4103414899" ref="index"/>
     <file name="u5451-42.png" crc="506397880" ref="index"/>
-    <file name="logo p-s-01272x246.png" crc="4171807351" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u5406-43.png" crc="3988081412" ref="index"/>
     <file name="u5451-43.png" crc="4073439276" ref="index"/>
-    <file name="logo p-s-01267x243.png" crc="4222017770" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="fondo nombres 1-u3593-fr3.jpg" crc="3954095567" ref="index"/>
     <file name="u3709-4.png" crc="218469545" ref="index"/>
     <file name="u5466-4.png" crc="3831329537" ref="index"/>
     <file name="u3709-42.png" crc="3976236582" ref="index"/>
     <file name="u3709-43.png" crc="4273792384" ref="index"/>
-    <file name="logo p-s-01186x168.png" crc="454984107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u5466-42.png" crc="438080664" ref="index"/>
     <file name="u5466-43.png" crc="4125519839" ref="index"/>
     <file name="u5466-44.png" crc="3761908516" ref="index"/>
     <file name="u3709-44.png" crc="165562151" ref="index"/>
-    <file name="logo p-s-01203x184.png" crc="3821461676" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u5466-45.png" crc="30165829" ref="index"/>
     <file name="u3709-45.png" crc="165562151" ref="index"/>
     <file name="priscila-y-sebastian-favicon.ico" crc="4008279052" ref="index"/>
@@ -473,6 +451,28 @@
     <file name="lea9604-crop-u107515.jpg" crc="85678655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logosyp-01.png" crc="292268110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01246x246.png" crc="4180028378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01243x243.png" crc="4226019645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01184x184.png" crc="4178256511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01168x168.png" crc="4081701819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01172x172.png" crc="4208782653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosyp-01147x147.png" crc="3847307357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4125904822" seo="true" mt="1658769515653" redirect="true"/>
+  <file name="index.html" crc="3885532783" seo="true" mt="1658770785682" redirect="true"/>
 </manifest>
