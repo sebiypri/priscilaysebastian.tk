@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658782786694">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658783768534">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4262876197" ref="index"/>
-    <file name="nomq_index.css" crc="4160200372" ref="index"/>
+    <file name="index.css" crc="3972078186" ref="index"/>
+    <file name="nomq_index.css" crc="168982469" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -450,5 +450,5 @@
     </file>
     <file name="pasted svg 521471x486_poster_.png" crc="324184477" ref="index"/>
   </folder>
-  <file name="index.html" crc="464056578" seo="true" mt="1658782729086" redirect="true"/>
+  <file name="index.html" crc="3990842457" seo="true" mt="1658783692373" redirect="true"/>
 </manifest>
