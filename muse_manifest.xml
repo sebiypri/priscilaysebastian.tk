@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658773168596">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658774134485">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="495356354" ref="index"/>
-    <file name="nomq_index.css" crc="4182307950" ref="index"/>
+    <file name="index.css" crc="273785476" ref="index"/>
+    <file name="nomq_index.css" crc="4103544522" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -435,16 +435,24 @@
     <file name="lea9604-crop-u107515.jpg" crc="85678655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo260syp-01.png" crc="111904396" ref="index">
+    <file name="logo260syp-01.png" crc="111904396" ref="index" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo260syp-01-u10985-fr.png" crc="240860150" ref="index"/>
-    <file name="logo260syp-01-u10985-fr2.png" crc="93534303" ref="index"/>
-    <file name="logo260syp-01-u10985-fr3.png" crc="4083842041" ref="index"/>
-    <file name="logo260syp-01-u10985-fr4.png" crc="154871954" ref="index"/>
+    <file name="logo260syp-01256x232.png" crc="3861750556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo260syp-01247x225.png" crc="258138059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo260syp-01236x215.png" crc="235615999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo260syp-01202x183.png" crc="4126370030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="108118688" seo="true" mt="1658773134129" redirect="true"/>
+  <file name="index.html" crc="4266282983" seo="true" mt="1658773824608" redirect="true"/>
 </manifest>
