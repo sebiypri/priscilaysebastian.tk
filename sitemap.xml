@@ -6,52 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/asset%202.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u439.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4392.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4393.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4394.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1110455x685.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1132455x685.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1168455x685.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9577455x682.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9604455x682.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1110431x648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1132431x648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea1168431x648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9577433x648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://priscilaysebastian.tk/images/lea9604433x648.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea0986-crop-u9296.jpg</image:loc>
@@ -102,6 +57,12 @@
       <image:loc>http://priscilaysebastian.tk/images/lea9604-crop-u10751.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/asset%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4392.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea0986-crop-u92962.jpg</image:loc>
     </image:image>
     <image:image>
@@ -150,6 +111,9 @@
       <image:loc>http://priscilaysebastian.tk/images/lea9604-crop-u107512.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4393.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea0986-crop-u92963.jpg</image:loc>
     </image:image>
     <image:image>
@@ -196,6 +160,9 @@
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9604-crop-u107513.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4394.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea0986-crop-u92964.jpg</image:loc>
@@ -258,7 +225,16 @@
       <image:loc>http://priscilaysebastian.tk/images/lea1055455x684.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1110455x685.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea1118455x685.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1132455x685.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1168455x685.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9331455x682.jpg</image:loc>
@@ -282,6 +258,12 @@
       <image:loc>http://priscilaysebastian.tk/images/lea9562455x682.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9577455x682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9604455x682.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9620433x648.jpg</image:loc>
     </image:image>
     <image:image>
@@ -294,7 +276,16 @@
       <image:loc>http://priscilaysebastian.tk/images/lea1055432x648.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1110431x648.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea1118431x648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1132431x648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea1168431x648.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9331433x648.jpg</image:loc>
@@ -316,6 +307,15 @@
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea9562433x648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9577433x648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9604433x648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://priscilaysebastian.tk/images/lea9620-crop-u4395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://priscilaysebastian.tk/images/lea0986-crop-u92965.jpg</image:loc>
