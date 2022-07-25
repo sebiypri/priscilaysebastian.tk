@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658776978663">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658780921557">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
