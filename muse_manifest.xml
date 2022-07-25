@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk" resolutions="1x" timestamp="1658719570801">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658764733408">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
@@ -518,5 +518,5 @@
     <file name="priscila-y-sebastian-favicon.ico" crc="249390845" ref="index"/>
     <file name="_lea9656-u122-fr3.png" crc="4007177174" ref="index"/>
   </folder>
-  <file name="index.html" crc="86509727" seo="true" mt="1658719533799" redirect="true"/>
+  <file name="index.html" crc="86509727" seo="true" mt="1658764618654" redirect="true"/>
 </manifest>
