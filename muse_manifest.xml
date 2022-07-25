@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658780921557">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658782373195">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4060940925" ref="index"/>
-    <file name="nomq_index.css" crc="4135921883" ref="index"/>
+    <file name="index.css" crc="276445590" ref="index"/>
+    <file name="nomq_index.css" crc="273350060" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
@@ -12,6 +12,7 @@
     <file name="helvetica.woff" crc="4150700188"/>
     <file name="helvetica.eot" crc="286227483"/>
     <file name="nicholia-p732z copy.svg" crc="479566021"/>
+    <file name="bacalisties.svg" crc="4139086176"/>
   </folder>
   <folder name="assets">
     <file name="seby-y-pri-3.pdf" crc="4202102530" seo="true" mt="1658099534000"/>
@@ -92,16 +93,6 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="fondo nombres 1.jpg" crc="3800210292" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 2.png" crc="3920066637" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="lea9656-u122-fr.png" crc="4245886894" ref="index"/>
@@ -447,6 +438,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 194466x145_poster_.png" crc="3890010588" ref="index"/>
+    <file name="pasted-svg-60216x56.svg" crc="4275365051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 60216x56_poster_.png" crc="3978016601" ref="index"/>
   </folder>
-  <file name="index.html" crc="3923993747" seo="true" mt="1658775515907" redirect="true"/>
+  <file name="index.html" crc="3972344958" seo="true" mt="1658782291476" redirect="true"/>
 </manifest>
