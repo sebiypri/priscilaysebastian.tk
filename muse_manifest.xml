@@ -1,16 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658774134485">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="priscilaysebastian.tk,sebiypri.github.io/priscilaysebastian.tk" resolutions="1x" timestamp="1658776978663">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3930736925" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="273785476" ref="index"/>
-    <file name="nomq_index.css" crc="4103544522" ref="index"/>
+    <file name="index.css" crc="4060940925" ref="index"/>
+    <file name="nomq_index.css" crc="4135921883" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="bacalisties.woff" crc="4073556287"/>
     <file name="bacalisties.eot" crc="4212490728"/>
     <file name="helvetica.woff" crc="4150700188"/>
     <file name="helvetica.eot" crc="286227483"/>
+    <file name="nicholia-p732z copy.svg" crc="479566021"/>
   </folder>
   <folder name="assets">
     <file name="seby-y-pri-3.pdf" crc="4202102530" seo="true" mt="1658099534000"/>
@@ -435,24 +436,17 @@
     <file name="lea9604-crop-u107515.jpg" crc="85678655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo260syp-01.png" crc="111904396" ref="index" seo="true">
+    <file name="pasted-svg-194466x145.svg" crc="161203086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo260syp-01256x232.png" crc="3861750556" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo260syp-01247x225.png" crc="258138059" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo260syp-01236x215.png" crc="235615999" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo260syp-01202x183.png" crc="4126370030" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="pasted svg 194466x145_poster_.png" crc="3890010588" ref="index"/>
   </folder>
-  <file name="index.html" crc="4266282983" seo="true" mt="1658773824608" redirect="true"/>
+  <file name="index.html" crc="3923993747" seo="true" mt="1658775515907" redirect="true"/>
 </manifest>
